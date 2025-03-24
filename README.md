@@ -16,7 +16,7 @@ Below are listings of langaugesI feel like mentioning. I'm not interested in bei
 
 ### Assembly
 
-Barely a langauge, the preprocessors usually has more depth to it than the actual syntax (not that you should manage assembly codebases that way anymore...).
+Barely a langauge, the preprocessors usually have more depth to it than the actual syntax (not that you should manage assembly codebases that way anymore...).
 
 See: [ASM_Notes](https://github.com/Ed94/ASM_Notes)
 
@@ -43,16 +43,16 @@ Notable Mentions:
 These langauges are designed to run from a virtual machine sandbox that is isolated from the native operating environment sandbox accessible on most machines.
 
 * C#: Better Java. Used by gamedev because of XNA and Unity.
-* Java: A highly effective tool to extract contracts from government and ignornant executives.
+* Java: A highly effective tool to extract contracts from governments and ignornant executives.
 
 ### Embeddabe
 
 Languages which can be "embedded" into codebases tend to be "scripting" langauges.  
 They should be something a user can digested over a few weekends, the point of them is to be so simple they are easy to maintain, and modify as needed for a project.
 
-* [Lua](https://www.lua.org): The og small brazillian. 5.1 is well adored and is tiny. They kept adding stuff after but its still resonably sized in latest versions (< 30 kloc I think).
+* [Lua](https://www.lua.org): The og small brazillian. 5.1 is well adored and is tiny. They kept adding stuff after 5.1 but its still resonably sized in 5.4 (< 30 kloc I think).
   * [Teal](https://github.com/teal-language/tl): Typed dialect. (~ 11 kloc added in a single file)
-* [Luau](https://luau.org): Derivative of Lua 5.1. Made by roblox people. Unfortunately uses in C++.
+* [Luau](https://luau.org): Derivative of Lua 5.1. Made by roblox people. Unfortunately written in C++.
 
 * [umka-lang](https://github.com/vtereshkov/umka-lang): Statically typed, small, written in C. Looks nice.
 
